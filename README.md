@@ -413,7 +413,7 @@ This tool is designed for **authorized network security monitoring only**.
 
 **Kabilar Pari**
 - 📧 pskabilar1233@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/kabilar-pari-79106b307)
+- 💼 www.linkedin.com/in/kabilar-pari-79106b307
 
 
 ---
